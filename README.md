@@ -1,11 +1,11 @@
-## Title 
-    ReadMe Generator
 
-    ## Description 
-    This project generates ReadME's based on user input.
+## Title
+ adsa
+
+## Description 
+ asd
     
-## Table of Contents
-
+ ## Table of Contents
     1. [Installation](#Installation)
     2. [Usage](#Usage)
     3. [License](#License)
@@ -13,24 +13,24 @@
     5. [Tests](#Tests)
     6. [Questions](#Questions)
     
-## Installation
-    npm install or npm i
+ ## Installation
+    
 
-## Usage
-    node index.js
+    ## Usage
+    asd
 
-## License
+ ## License
     MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributing
-    Contributions are welcome
+ ## Contributing
+    ad
 
 ## Tests
-    Video link should be posted
+    asd
 
-## Questions
-    SAziz24
-    Sumailah Aziz
-    Sumailahaziz@gmail.com
+ ## Questions
+    asd
+    asd
+    asd
     
   
